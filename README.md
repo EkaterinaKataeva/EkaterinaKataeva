@@ -6,7 +6,11 @@
 - 📫 Открыта к интересным проектам, связаться со мной можно в [Telegram](https://t.me/it_is_katy)
 
 🛠 **Языки и инструменты:**
-- Python (Pandas, Seaborn, Matplotlib, Plotly, Stats), Jupiter Notebook, SQL, Tableau, Excel.
+- Python (Pandas, Seaborn, Matplotlib, Plotly, Stats);
+- Jupiter Notebook;
+- SQL;
+- Tableau;
+- Excel.
 
 <!---
 EkaterinaKataeva/EkaterinaKataeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
